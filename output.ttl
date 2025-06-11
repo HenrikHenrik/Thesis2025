@@ -1,0 +1,7 @@
+@prefix ns1: <http://example.org/> .
+
+ns1:Alan_Turing ns1:nationality ns1:British ;
+    ns1:profession ns1:Computer_Scientist,
+        ns1:Mathematician ;
+    ns1:type ns1:Person .
+
